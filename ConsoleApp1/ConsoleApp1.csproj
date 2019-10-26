@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>WISH Calculator</AssemblyName>
+    <ApplicationIcon>wish.ico</ApplicationIcon>
+    <StartupObject>ConsoleApp1.Program</StartupObject>
+    <Authors>Nico Guarnes</Authors>
+    <Company>Techno PH</Company>
+  </PropertyGroup>
+
+</Project>
